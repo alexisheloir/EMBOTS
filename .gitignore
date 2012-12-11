@@ -1,1 +1,17 @@
 .DS_Store
+bin/tmp/*
+bin/logs/semaine.log
+
+nbproject/private/private.properties
+
+temp/last_embrscript.embr
+
+dist/EMBOTS.jar
+
+bin/#embots.bat#
+
+bin/#embots.sh#
+
+bin/.#embots.bat
+
+bin/.#embots.sh
